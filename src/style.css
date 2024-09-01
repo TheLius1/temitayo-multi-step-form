@@ -647,9 +647,9 @@ hr {
   }
 }
 @media (min-width: 940px) {
-/*   body {
+  body {
     margin: 4rem 0;
-  } */
+  }
   .step {
     width: 450px;
   }
